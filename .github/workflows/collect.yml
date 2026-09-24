@@ -23,9 +23,11 @@ jobs:
         run: python scripts/collect_forecast.py
 
       - name: Collect actuals
+        if: ${{ !cancelled() }}  # keep whatever was collected even if an earlier step failed
         run: python scripts/collect_actuals.py
 
       - name: Commit new data
+        if: ${{ !cancelled() }}  # keep whatever was collected even if an earlier step failed
         run: |
           git config user.name "Steve"
           git config user.email "325648081+skofoed-1@users.noreply.github.com"

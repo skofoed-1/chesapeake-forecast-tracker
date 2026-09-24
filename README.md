@@ -7,7 +7,7 @@ Sailors plan around multi-day marine forecasts, but forecast providers rarely pu
 ## Method
 
 - **Forecast:** NWS Coastal Waters Forecast (CWF) product, issued by the Baltimore/Washington office (LWX), for marine zone **ANZ532**: Chesapeake Bay, Sandy Point to North Beach (the Annapolis stretch).
-- **Actuals:** NDBC buoy **TPLM2** (Thomas Point Light), which sits inside that same zone.
+- **Actuals:** two NDBC stations inside that same zone: **TPLM2** (Thomas Point Light) for wind, and **44063** (the Annapolis CBIBS buoy) for wind and wave height. Thomas Point Light has no wave sensor.
 - **Cadence:** a scheduled job pulls both sources once daily and commits the raw snapshots to this repo (see `.github/workflows/collect.yml`).
 - **Why build forward instead of backfilling:** NOAA/NWS archives past buoy *observations* but not past *forecasts*. There's no public record of "what the forecast said on day X for day X+3," so forecast accuracy here can only be tracked starting from when this pipeline went live, accumulating a real accuracy history week over week.
 
