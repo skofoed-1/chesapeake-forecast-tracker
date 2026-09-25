@@ -1,0 +1,407 @@
+
+000
+FZUS51 KLWX 202358
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+757 PM EDT Sun Sep 20 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-210800-
+757 PM EDT Sun Sep 20 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+A cold front will slowly drop southward across the area through 
+Monday. A strong area of high pressure will build to our north 
+Monday and remain in place through much of the week, leading to a 
+prolonged period of onshore flow. Several waves of low pressure may 
+track along the stalled front to our south during this time. Small 
+Craft Advisories will likely be needed for much of the Monday night 
+through Thursday time period, and a few low-end Gale gusts can't be 
+ruled out on Tuesday or Wednesday. 
+
+$$
+
+ANZ535-210800-
+Tidal Potomac from Key Bridge to Indian Head-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...NW winds 5 kt. Waves less than 1 ft. Scattered showers
+with isolated tstms this evening. 
+.MON...NE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.MON NIGHT...NE winds 5 to 10 kt. Waves 1 ft. Showers.
+.TUE...NE winds 10 to 15 kt. Gusts up to 20 kt... increasing to
+30 kt in the afternoon. Waves 1 ft. Showers.
+.TUE NIGHT...NE winds 10 to 15 kt with gusts to 25 kt. Waves 1 ft.
+Showers likely. 
+.WED...NE winds 10 kt with gusts to 25 kt. Waves 1 ft. A chance of
+showers. 
+.WED NIGHT...NE winds 10 to 15 kt with gusts to 25 kt. Waves 1 ft. A
+chance of showers. 
+.THU...NE winds 10 to 15 kt. Waves 1 ft. A chance of showers through
+the day. 
+.FRI...N winds 10 to 15 kt. Waves 1 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ536-210800-
+Tidal Potomac from Indian Head to Cobb Island-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...W winds 5 kt...becoming N late. Waves 1 ft. Scattered
+showers with isolated tstms this evening, then scattered showers
+after midnight. 
+.MON...NE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.MON NIGHT...NE winds 5 to 10 kt. Waves 1 ft. Showers.
+.TUE...NE winds 10 to 15 kt. Gusts up to 25 kt in the afternoon.
+Waves 1 to 2 ft. Showers with a chance of tstms. 
+.TUE NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers likely. 
+.WED...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. Showers
+likely. 
+.WED NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. A
+chance of showers. 
+.THU...N winds 10 to 15 kt. Waves 1 to 2 ft. A chance of showers
+through the day. 
+.FRI...N winds 10 to 15 kt. Waves 1 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ537-210800-
+Tidal Potomac from Cobb Island to Smith Point-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...S winds 10 kt...becoming N late. Waves 1 ft. Scattered
+showers with isolated tstms. 
+.MON...NE winds 5 to 10 kt. Waves 2 ft. 
+.MON NIGHT...E winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft.
+Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 3 ft. Showers
+with a chance of tstms. 
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft. Showers
+likely. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 5 ft. A
+chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 4 ft. A chance of showers. 
+.FRI...N winds 15 to 20 kt. Waves 3 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ530-210800-
+Chesapeake Bay north of Pooles Island-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...W winds 5 kt...becoming N after midnight. Waves 1 ft or
+less. Scattered showers with isolated tstms this evening, then
+scattered showers after midnight. 
+.MON...NE winds 10 to 15 kt. Waves 1 ft. A chance of showers. 
+.MON NIGHT...NE winds 15 to 20 kt. Gusts up to 25 kt late. Waves
+1 to 2 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers.
+.TUE NIGHT...NE winds 20 to 25 kt. Waves 2 ft. A chance of showers. 
+.WED...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 2 ft. 
+.THU...NE winds 15 to 20 kt. Waves 2 ft. 
+.FRI...N winds 15 to 20 kt. Waves 1 to 2 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ531-210800-
+Chesapeake Bay from Pooles Island to Sandy Point-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...SW winds 5 kt...becoming N 10 to 15 kt with gusts to
+20 kt after midnight. Waves 1 to 2 ft. Scattered showers with
+isolated tstms this evening, then isolated showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 to
+3 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 30 kt. Waves 3 ft.
+Showers.
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. 
+.THU...NE winds 20 to 25 kt. Waves 3 ft. 
+.FRI...N winds 15 to 20 kt. Waves 3 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ538-210800-
+Patapsco River including Baltimore Harbor-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...W winds 5 kt...becoming N after midnight. Waves 1 ft or
+less. Scattered showers with isolated tstms this evening, then
+isolated showers after midnight. 
+.MON...NE winds 10 kt. Waves 1 ft. A chance of showers.
+.MON NIGHT...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to
+2 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers.
+.TUE NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers likely. 
+.WED...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. 
+.THU...NE winds 10 to 15 kt. Waves 1 to 2 ft. 
+.FRI...N winds 10 to 15 kt. Waves 1 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ539-210800-
+Chester River to Queenstown MD-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...SW winds 5 kt...becoming N with gusts to 20 kt after
+midnight. Waves 1 ft. Scattered showers with isolated tstms this
+evening, then isolated showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to
+2 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers.
+.TUE NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 to
+3 ft. Showers likely. 
+.WED...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 to 3 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 15 to 20 kt with gusts to 30 kt. Waves 2 to
+3 ft. 
+.THU...NE winds 15 to 20 kt. Waves 2 to 3 ft. 
+.FRI...N winds 15 to 20 kt. Waves 2 to 3 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ532-210800-
+Chesapeake Bay from Sandy Point to North Beach-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...S winds 10 kt...becoming NW late this evening and early
+morning, then becoming N with gusts to 20 kt late. Waves 1 to 2 ft.
+Scattered showers with isolated tstms this evening, then isolated
+showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 15 to 20 kt. Waves 2 ft. Showers likely. 
+.TUE...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft.
+Showers.
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft. A
+chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 3 ft. A chance of showers in the
+morning. 
+.FRI...N winds 20 to 25 kt. Waves 3 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ540-210800-
+Eastern Bay-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...S winds 5 kt...becoming NW late this evening and early
+morning, then becoming N with gusts to 20 kt late. Waves 1 ft.
+Scattered showers with isolated tstms this evening, then scattered
+showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to
+2 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers.
+.TUE NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Showers likely. 
+.WED...NE winds 15 to 20 kt with gusts to 30 kt. Waves 2 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 2 ft. A
+chance of showers. 
+.THU...NE winds 15 to 20 kt. Waves 2 ft. A chance of showers in the
+morning. 
+.FRI...N winds 15 to 20 kt. Waves 2 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ533-210800-
+Chesapeake Bay from North Beach to Drum Point-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...SW winds 5 to 10 kt...becoming N 10 to 15 kt with gusts
+to 20 kt after midnight. Waves 1 to 2 ft. Scattered showers with
+isolated tstms this evening, then scattered showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 15 to 20 kt. Waves 2 ft. Showers likely. 
+.TUE...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft.
+Showers.
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 25 to 30 kt. Waves 4 ft. A chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 4 ft. A chance of showers in the
+morning. 
+.FRI...N winds 25 to 30 kt. Waves 4 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ541-210800-
+Choptank River to Cambridge MD and the Little Choptank River-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 3 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...S winds 5 to 10 kt...becoming N 10 to 15 kt with gusts to
+20 kt after midnight. Waves 1 ft. Scattered showers with isolated
+tstms this evening, then scattered showers after midnight. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to 2 ft. A
+chance of showers. 
+.MON NIGHT...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft.
+Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 30 kt. Waves 2 to 3 ft.
+Showers.
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 3 ft. A chance of showers in the
+morning. 
+.FRI...N winds 20 to 25 kt. Waves 3 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ542-210800-
+Patuxent River to Broomes Island MD-
+757 PM EDT Sun Sep 20 2026
+
+.TONIGHT...SW winds 5 kt...becoming N late. Waves 1 ft. Scattered
+showers with isolated tstms this evening, then scattered showers
+after midnight. 
+.MON...NE winds 10 kt. Waves 1 ft. 
+.MON NIGHT...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.TUE...NE winds 15 to 20 kt with gusts to 25 kt. Waves 1 ft. Showers
+with a chance of tstms. 
+.TUE NIGHT...NE winds 15 to 20 kt with gusts to 25 kt. Waves 1 ft.
+Showers likely. 
+.WED...NE winds 15 to 20 kt with gusts to 30 kt. Waves 1 ft. Showers
+likely. 
+.WED NIGHT...NE winds 15 to 20 kt with gusts to 30 kt. Waves 1 ft. A
+chance of showers. 
+.THU...NE winds 15 to 20 kt. Waves 1 ft. A chance of showers in the
+morning. 
+.FRI...N winds 15 to 20 kt. Waves 1 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ534-210800-
+Chesapeake Bay from Drum Point to Smith Point-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 6 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...S winds 10 kt...becoming NW late. Waves 1 to 2 ft.
+Scattered showers with isolated tstms. 
+.MON...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. A
+chance of showers. 
+.MON NIGHT...E winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. A
+chance of showers. 
+.TUE...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. Showers
+with a chance of tstms. 
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft.
+Showers likely. 
+.WED...NE winds 25 to 30 kt. Waves 5 ft. Showers likely. 
+.WED NIGHT...NE winds 25 to 30 kt. Waves 5 ft. A chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 4 ft. A chance of showers. 
+.FRI...N winds 25 to 30 kt. Waves 5 ft. A chance of showers through
+the night.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ543-210800-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+757 PM EDT Sun Sep 20 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT FROM 6 AM EDT MONDAY THROUGH
+MONDAY MORNING...
+
+.TONIGHT...SW winds 10 kt...becoming NW late. Waves 1 ft. Scattered
+showers with isolated tstms. 
+.MON...NE winds 10 kt with gusts to 20 kt. Waves 1 ft. A chance of
+showers. 
+.MON NIGHT...E winds 10 to 15 kt with gusts to 20 kt. Waves 1 to
+2 ft. A chance of showers. 
+.TUE...NE winds 15 to 20 kt with gusts to 30 kt. Waves 2 ft. Showers
+likely with a chance of tstms. 
+.TUE NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft.
+Showers likely. 
+.WED...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.WED NIGHT...NE winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.THU...NE winds 20 to 25 kt. Waves 3 ft. A chance of showers. 
+.FRI...N winds 20 to 25 kt. Waves 3 ft. A chance of showers.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
