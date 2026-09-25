@@ -8,7 +8,7 @@ Sailors plan around multi-day marine forecasts, but forecast providers rarely pu
 
 - **Forecast:** NWS Coastal Waters Forecast (CWF) product, issued by the Baltimore/Washington office (LWX), for marine zone **ANZ532**: Chesapeake Bay, Sandy Point to North Beach (the Annapolis stretch).
 - **Actuals:** two NDBC stations inside that same zone: **TPLM2** (Thomas Point Light) for wind, and **44063** (the Annapolis CBIBS buoy) for wind and wave height. Thomas Point Light has no wave sensor.
-- **Cadence:** a scheduled job pulls both sources once daily and commits the raw snapshots to this repo (see `.github/workflows/collect.yml`).
+- **Cadence:** a scheduled job runs once daily and commits the raw snapshots to this repo (see `.github/workflows/collect.yml`). NWS reissues the forecast several times a day and the API keeps only about a week of them, so each run saves every issuance not already on file. That gives several forecasts, made at different lead times, for each forecast period.
 - **Why build forward instead of backfilling:** NOAA/NWS archives past buoy *observations* but not past *forecasts*. There's no public record of "what the forecast said on day X for day X+3," so forecast accuracy here can only be tracked starting from when this pipeline went live, accumulating a real accuracy history week over week.
 
 ## Status
@@ -17,7 +17,7 @@ Early / data-accumulation phase. The collection pipeline is live; the accuracy a
 
 ## Data
 
-Raw daily snapshots live in `data/`: `forecasts/raw/` (full CWF product text), `forecasts/parsed/` (per-pull JSON with the ANZ532 segment extracted), and `actuals/raw/` (NDBC observation text). Collector scripts are in `scripts/`.
+Raw daily snapshots live in `data/`: `forecasts/raw/` (full CWF product text, one file per issuance), `forecasts/parsed/` (per-issuance JSON with the ANZ532 segment extracted), and `actuals/raw/` (NDBC observation text). Collector scripts are in `scripts/`.
 
 ## Stack
 
