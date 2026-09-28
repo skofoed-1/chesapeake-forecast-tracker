@@ -1,0 +1,304 @@
+
+000
+FZUS51 KLWX 272057
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+457 PM EDT Sun Sep 27 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-280800-
+457 PM EDT Sun Sep 27 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+A Nor'easter will meander off the Mid Atlantic coast through tonight
+ before finally departing to the northeast Monday. High pressure
+will  build into the area for the middle of the week. 
+
+$$
+
+ANZ535-280800-
+Tidal Potomac from Key Bridge to Indian Head-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 2 AM EDT MONDAY...
+
+.REST OF THIS AFTERNOON...NW winds 10 kt with gusts to 20 kt. Waves
+1 ft. Numerous showers. 
+.TONIGHT...NW winds 5 to 10 kt. Gusts up to 20 kt in the evening.
+Waves 1 ft. 
+.MON...NW winds 5 kt. Waves less than 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...NW winds around 5 kt. Waves 1 ft or less.
+.WED...S winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ536-280800-
+Tidal Potomac from Indian Head to Cobb Island-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 2 AM EDT MONDAY...
+
+.REST OF THIS AFTERNOON...NW winds 15 kt with gusts to 25 kt. Waves
+1 ft. Scattered showers. 
+.TONIGHT...NW winds 10 to 15 kt. Gusts up to 20 kt until early
+morning. Waves 1 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...SE winds around 5 kt. Waves 1 ft or less.
+.WED...S winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ537-280800-
+Tidal Potomac from Cobb Island to Smith Point-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+3 ft. Scattered showers. 
+.TONIGHT...NW winds 15 to 20 kt with gusts to 30 kt... diminishing
+to 10 kt with gusts to 20 kt late. Waves 2 to 3 ft. 
+.MON...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds around 5 kt. Waves flat. 
+.TUE NIGHT...S winds around 5 kt. Waves flat. 
+.WED...SW winds around 5 kt...becoming S. Waves 1 ft or less. 
+.THU...SW winds 10 to 15 kt. Waves 1 ft.  
+
+$$
+
+ANZ530-280800-
+Chesapeake Bay north of Pooles Island-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.REST OF THIS AFTERNOON...NW winds 15 kt with gusts to 25 kt. Waves
+2 ft. Isolated showers. Patchy fog. Vsby 1 to 3 NM. 
+.TONIGHT...N winds 10 to 15 kt with gusts to 25 kt. Waves 1 to 2 ft.
+Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. Scattered showers. Patchy
+fog. Vsby 1 to 3 NM. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...NW winds around 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ531-280800-
+Chesapeake Bay from Pooles Island to Sandy Point-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+3 ft. Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 3 ft. Scattered showers. Patchy fog. Vsby 1 to
+3 NM. 
+.MON...NW winds 5 to 10 kt. Gusts up to 20 kt until late afternoon.
+Waves 1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...S winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ538-280800-
+Patapsco River including Baltimore Harbor-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 2 AM EDT MONDAY...
+
+.REST OF THIS AFTERNOON...NW winds 15 kt with gusts to 25 kt. Waves
+2 ft. Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.TONIGHT...NW winds 10 to 15 kt. Gusts up to 25 kt until early
+morning. Waves 1 ft. Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 5 kt. Waves flat. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...NW winds around 5 kt. Waves flat. 
+.WED...S winds around 5 kt. Waves flat. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ539-280800-
+Chester River to Queenstown MD-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+4 ft. Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 3 ft. Scattered showers. Patchy fog. Vsby 1 to
+3 NM. 
+.MON...NW winds 10 to 15 kt. Gusts up to 20 kt until late afternoon.
+Waves 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ532-280800-
+Chesapeake Bay from Sandy Point to North Beach-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+3 ft. Numerous showers. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 2 to 3 ft. Scattered showers. Patchy fog. Vsby
+1 to 3 NM. 
+.MON...NW winds 5 to 10 kt. Gusts up to 20 kt until late afternoon.
+Waves 1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...NW winds around 5 kt...becoming S. Waves 1 ft or less. 
+.THU...S winds 5 to 10 kt. Waves 1 to 2 ft.  
+
+$$
+
+ANZ540-280800-
+Eastern Bay-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+3 ft. Scattered showers. Patchy fog. Vsby 1 to 3 NM. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 2 to 3 ft. Scattered showers. Patchy fog. Vsby
+1 to 3 NM. 
+.MON...NW winds 10 kt. Gusts up to 20 kt until late afternoon. Waves
+1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves flat. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...W winds 5 kt...becoming S. Waves 1 ft or less. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ533-280800-
+Chesapeake Bay from North Beach to Drum Point-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+4 ft. Numerous showers. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 3 ft. Scattered showers. Patchy fog. Vsby 1 to
+3 NM. 
+.MON...NW winds 10 to 15 kt. Gusts up to 20 kt until late afternoon.
+Waves 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...NW winds 5 kt...becoming S. Waves 1 ft or less. 
+.THU...S winds 10 to 15 kt. Waves 1 to 2 ft.  
+
+$$
+
+ANZ541-280800-
+Choptank River to Cambridge MD and the Little Choptank River-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+3 ft. Numerous showers. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt... diminishing to
+20 kt late. Waves 2 to 3 ft. Scattered showers. Patchy fog. Vsby
+1 to 3 NM. 
+.MON...NW winds 10 to 15 kt. Gusts up to 20 kt until late afternoon.
+Waves 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...SW winds 5 to 10 kt...becoming S. Waves 1 ft or less. 
+.THU...S winds 10 to 15 kt. Waves 1 ft.  
+
+$$
+
+ANZ542-280800-
+Patuxent River to Broomes Island MD-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 2 AM EDT MONDAY...
+
+.REST OF THIS AFTERNOON...NW winds 15 kt with gusts to 25 kt. Waves
+1 ft. Scattered showers. 
+.TONIGHT...NW winds 10 to 15 kt with gusts to 25 kt. Waves 1 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 5 kt. Waves less than 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...S winds around 5 kt. Waves 1 ft. 
+.WED...W winds 5 kt...becoming S. Waves 1 ft. 
+.THU...S winds 5 to 10 kt. Waves 1 ft.  
+
+$$
+
+ANZ534-280800-
+Chesapeake Bay from Drum Point to Smith Point-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 20 kt with gusts to 30 kt. Waves
+5 ft. Scattered showers. 
+.TONIGHT...NW winds 15 to 20 kt. Gusts up to 30 kt. Waves 5 ft...
+subsiding to 3 ft after midnight. 
+.MON...NW winds 10 to 15 kt with gusts to 20 kt. Waves 2 to 3 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...SW winds around 5 kt. Waves flat. 
+.WED...S winds 5 to 10 kt. Waves 1 ft or less... building to 2 ft. 
+.THU...S winds 10 to 15 kt. Waves 1 to 2 ft.  
+
+$$
+
+ANZ543-280800-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+457 PM EDT Sun Sep 27 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY AFTERNOON...
+
+.REST OF THIS AFTERNOON...NW winds 25 kt with gusts to 30 kt. Waves
+3 ft. Scattered showers. 
+.TONIGHT...NW winds 15 to 20 kt with gusts to 30 kt. Waves 2 to
+3 ft. Patchy fog. Vsby 1 to 3 NM. 
+.MON...NW winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...SW winds around 5 kt. Waves flat. 
+.WED...SW winds 5 to 10 kt...becoming S. Waves 1 ft or less. 
+.THU...S winds 10 to 15 kt. Waves 1 to 2 ft.  
+
+$$
+
