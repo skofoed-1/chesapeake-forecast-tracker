@@ -1,0 +1,301 @@
+
+000
+FZUS51 KLWX 141202
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+802 AM EDT Wed Oct 14 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-142000-
+802 AM EDT Wed Oct 14 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+A dry cold front will push south this afternoon into tonight, then 
+stall near or just south of the region on Thursday. A short lived 
+Small Craft Advisory may be needed tonight into Thursday morning. A 
+stronger cold front moves across the area Friday, with gale 
+conditions possible Friday night into Saturday. 
+
+$$
+
+ANZ535-142000-
+Tidal Potomac from Key Bridge to Indian Head-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NW winds 5 kt...becoming NE late. Waves 1 ft. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.FRI...S winds 5 to 10 kt with gusts to 20 kt... becoming SW 15 to
+20 kt with gusts to 35 kt in the afternoon. Waves 1 to 2 ft. Showers
+likely. 
+.FRI NIGHT...NW winds 15 to 20 kt. Gusts up to 35 kt...diminishing
+to 25 kt after midnight. Waves 1 to 2 ft. A chance of showers. 
+.SAT...NW winds 10 to 15 kt...diminishing to around 5 kt after
+midnight. Waves 1 ft. 
+.SUN...SW winds around 5 kt. Waves 1 ft.  
+
+$$
+
+ANZ536-142000-
+Tidal Potomac from Indian Head to Cobb Island-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...W winds around 5 kt...becoming N after midnight. Waves
+1 ft. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. 
+.FRI...SW winds 15 to 20 kt. Gusts up to 20 kt... increasing to
+30 kt in the afternoon. Waves 1 to 2 ft. A chance of showers. 
+.FRI NIGHT...NW winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.SAT...NW winds 15 to 20 kt...diminishing to 5 kt after midnight.
+Waves 2 to 3 ft...subsiding to 1 ft after midnight. 
+.SUN...SW winds around 5 kt. Waves 1 ft.  
+
+$$
+
+ANZ537-142000-
+Tidal Potomac from Cobb Island to Smith Point-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...SW winds around 5 kt...becoming N after midnight. Waves
+1 ft or less. 
+.THU...NE winds 10 to 15 kt. Waves 2 ft. A chance of showers. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. A
+chance of showers. 
+.FRI NIGHT...NW winds 25 to 30 kt. Waves 4 ft. Showers likely. 
+.SAT...NW winds 20 to 25 kt...becoming N 10 to 15 kt after midnight.
+Waves 3 ft...subsiding to 2 ft after midnight. 
+.SUN...N winds 5 to 10 kt...becoming S. Waves 1 ft.  
+
+$$
+
+ANZ530-142000-
+Chesapeake Bay north of Pooles Island-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 to 10 kt. Waves 1 ft. A slight chance of showers
+and tstms this afternoon. 
+.TONIGHT...NW winds 5 to 10 kt...becoming NE 10 to 15 kt late. Waves
+1 ft. A chance of showers. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 10 to 15 kt. Waves 1 ft. Showers likely. 
+.FRI...S winds 10 to 15 kt with gusts to 20 kt... becoming SW 20 to
+25 kt with gusts to 30 kt in the afternoon. Waves 2 ft. Showers.
+.FRI NIGHT...NW winds 20 to 25 kt with gusts to 30 kt. Waves 2 to
+3 ft. A chance of showers. 
+.SAT...NW winds 20 to 25 kt...diminishing to 5 kt. Waves 1 to 2 ft. 
+.SUN...SW winds 5 kt. Waves less than 1 ft.  
+
+Winds and waves higher and visibilities lower in and near tstms.
+
+$$
+
+ANZ531-142000-
+Chesapeake Bay from Pooles Island to Sandy Point-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 10 kt. Waves 1 ft. 
+.TONIGHT...NW winds 5 to 10 kt...becoming N 10 to 15 kt late. Waves
+1 to 2 ft. A chance of showers. 
+.THU...NE winds 10 to 15 kt...becoming E 5 kt late. Waves 1 to 2 ft.
+Showers likely. 
+.THU NIGHT...SE winds 10 to 15 kt. Waves 1 to 2 ft. A chance of
+showers. 
+.FRI...S winds 10 to 15 kt with gusts to 20 kt... becoming SW 20 to
+25 kt with gusts to 30 kt in the afternoon. Waves 2 to 3 ft.
+Showers.
+.FRI NIGHT...NW winds 25 to 30 kt. Waves 4 ft. A chance of showers. 
+.SAT...NW winds 20 to 25 kt...diminishing to 5 to 10 kt after
+midnight. Waves 3 ft...subsiding to 1 ft after midnight. 
+.SUN...W winds 5 to 10 kt...becoming SW. Waves 1 ft. 
+
+$$
+
+ANZ538-142000-
+Patapsco River including Baltimore Harbor-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TONIGHT...N winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.FRI...S winds 10 kt...becoming SW 15 to 20 kt with gusts to 25 kt
+in the afternoon. Waves 1 to 2 ft. Showers likely. 
+.FRI NIGHT...NW winds 15 to 20 kt with gusts to 30 kt. Waves 2 ft. A
+chance of showers. 
+.SAT...NW winds 15 to 20 kt...diminishing to 5 kt after midnight.
+Waves 1 to 2 ft...subsiding to flat after midnight. 
+.SUN...SW winds 5 kt. Waves less than 1 ft.  
+
+$$
+
+ANZ539-142000-
+Chester River to Queenstown MD-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NW winds 5 kt...becoming N after midnight. Waves 1 ft. A
+chance of showers. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 to 3 ft.
+Showers likely. 
+.FRI NIGHT...NW winds 20 to 25 kt with gusts to 30 kt. Waves 4 ft. A
+chance of showers. 
+.SAT...NW winds 20 to 25 kt...becoming N 10 to 15 kt. Waves 3 ft...
+subsiding to 1 to 2 ft. 
+.SUN...SW winds 5 kt. Waves less than 1 ft.  
+
+$$
+
+ANZ532-142000-
+Chesapeake Bay from Sandy Point to North Beach-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...SW winds 5 kt...becoming N 10 to 15 kt with gusts to
+20 kt in the late evening and overnight. Waves 1 to 2 ft. A chance
+of showers. 
+.THU...NE winds 10 to 15 kt with gusts to 20 kt. Waves 1 to 2 ft.
+Showers.
+.THU NIGHT...SE winds 10 to 15 kt. Waves 1 to 2 ft. A chance of
+showers. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 to 3 ft.
+Showers likely. 
+.FRI NIGHT...NW winds 25 to 30 kt. Waves 4 ft. A chance of showers. 
+.SAT...NW winds 25 to 30 kt...diminishing to 15 to 20 kt. Waves
+3 ft...subsiding to 2 ft after midnight. 
+.SUN...W winds 5 to 10 kt...becoming SW. Waves 1 ft. 
+
+$$
+
+ANZ540-142000-
+Eastern Bay-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...W winds 5 kt...becoming N 10 to 15 kt after midnight.
+Waves 1 ft. A chance of showers. 
+.THU...NE winds 10 to 15 kt...becoming E 5 kt late. Waves 1 ft.
+Showers likely. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. A chance of showers. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. Showers
+likely. 
+.FRI NIGHT...NW winds 20 to 25 kt with gusts to 30 kt. Waves 3 ft. A
+chance of showers. 
+.SAT...NW winds 20 to 25 kt...becoming N 5 to 10 kt after midnight.
+Waves 2 to 3 ft...subsiding to 1 ft after midnight. 
+.SUN...SW winds 5 kt. Waves less than 1 ft.  
+
+$$
+
+ANZ533-142000-
+Chesapeake Bay from North Beach to Drum Point-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 to 10 kt. Waves 1 ft. 
+.TONIGHT...SW winds 5 kt...becoming N 10 to 15 kt with gusts to
+20 kt in the late evening and overnight. Waves 1 to 2 ft. 
+.THU...NE winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. Showers
+likely. 
+.THU NIGHT...SE winds 10 to 15 kt. Waves 1 to 2 ft. A chance of
+showers. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 to 3 ft.
+Showers likely. 
+.FRI NIGHT...NW winds 25 to 30 kt. Waves 4 ft. A chance of showers. 
+.SAT...NW winds 25 to 30 kt...becoming N 10 to 15 kt after midnight.
+Waves 4 ft...subsiding to 2 ft after midnight. 
+.SUN...NW winds 5 to 10 kt...becoming S. Waves 1 ft.  
+
+$$
+
+ANZ541-142000-
+Choptank River to Cambridge MD and the Little Choptank River-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 to 10 kt. Waves 1 ft. 
+.TONIGHT...SW winds 5 kt...becoming N 10 to 15 kt with gusts to
+20 kt in the late evening and overnight. Waves 1 ft. 
+.THU...NE winds 10 to 15 kt with gusts to 20 kt... becoming E 5 kt
+late. Waves 1 to 2 ft. Showers likely. 
+.THU NIGHT...SE winds 10 to 15 kt. Waves 1 ft. A chance of showers. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. Showers
+likely. 
+.FRI NIGHT...NW winds 25 to 30 kt. Waves 4 ft. A chance of showers. 
+.SAT...NW winds 25 to 30 kt...becoming N 15 to 20 kt. Waves 3 ft...
+subsiding to 2 ft after midnight. 
+.SUN...NW winds 5 to 10 kt...becoming SW. Waves 1 ft.  
+
+$$
+
+ANZ542-142000-
+Patuxent River to Broomes Island MD-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...W winds around 5 kt...becoming N after midnight. Waves
+1 ft. 
+.THU...NE winds 5 to 10 kt. Waves 1 ft. Showers likely. 
+.THU NIGHT...SE winds 5 kt. Waves less than 1 ft. A chance of
+showers. 
+.FRI...SW winds 10 to 15 kt. Gusts up to 25 kt in the afternoon.
+Waves 1 ft. A chance of showers. 
+.FRI NIGHT...NW winds 15 to 20 kt with gusts to 30 kt. Waves 2 ft. A
+chance of showers. 
+.SAT...NW winds 15 to 20 kt...becoming N 5 to 10 kt after midnight.
+Waves 1 to 2 ft. 
+.SUN...SW winds 5 kt. Waves less than 1 ft.  
+
+$$
+
+ANZ534-142000-
+Chesapeake Bay from Drum Point to Smith Point-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 to 10 kt. Waves 1 ft. 
+.TONIGHT...SW winds 5 kt...becoming N 10 to 15 kt after midnight.
+Waves 1 to 2 ft. 
+.THU...NE winds 10 to 15 kt. Waves 2 ft. A chance of showers. 
+.THU NIGHT...SE winds 10 kt. Waves 1 ft. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 to 3 ft. A
+chance of showers. 
+.FRI NIGHT...W winds 25 to 30 kt...becoming NW after midnight. Waves
+5 ft. Showers likely. 
+.SAT...N winds 25 to 30 kt...diminishing to 15 to 20 kt after
+midnight. Waves 5 ft...subsiding to 3 ft. 
+.SUN...N winds 5 to 10 kt...becoming S. Waves 1 to 2 ft.  
+
+$$
+
+ANZ543-142000-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+802 AM EDT Wed Oct 14 2026
+
+.TODAY...SW winds 5 to 10 kt. Waves 1 ft. 
+.TONIGHT...SW winds 5 to 10 kt...becoming N after midnight. Waves
+1 ft. 
+.THU...NE winds 10 to 15 kt. Waves 1 ft. A chance of showers. 
+.THU NIGHT...SE winds 5 to 10 kt. Waves 1 ft. 
+.FRI...SW winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft. A
+chance of showers. 
+.FRI NIGHT...W winds 25 to 30 kt...becoming NW after midnight. Waves
+3 ft. Showers likely. 
+.SAT...N winds 25 to 30 kt...diminishing to 10 to 15 kt after
+midnight. Waves 2 to 3 ft. 
+.SUN...N winds 5 to 10 kt...becoming SW. Waves 1 ft.  
+
+$$
+
