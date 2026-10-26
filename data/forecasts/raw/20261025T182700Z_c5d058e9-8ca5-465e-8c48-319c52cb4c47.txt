@@ -1,0 +1,239 @@
+
+000
+FZUS51 KLWX 251827
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+226 PM EDT Sun Oct 25 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-260800-
+226 PM EDT Sun Oct 25 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+A large area of high pressure will build over the Northeast and Mid-
+Atlantic through tonight, then shift southward and weaken over the 
+central Appalachians Monday. A dry backdoor front looks to drop in 
+from the north Tuesday, with another large area of high pressure 
+building in behind it. Small Craft Advisories may be needed for 
+portions of the waters Tuesday morning in northerly flow. 
+
+$$
+
+ANZ535-260800-
+Tidal Potomac from Key Bridge to Indian Head-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...S winds around 5 kt. Waves 1 ft or less. 
+.TONIGHT...S winds around 5 kt. Waves 1 ft or less. 
+.MON...W winds around 5 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...N winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...E winds around 5 kt. Waves 1 ft. 
+.WED...E winds around 5 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft.  
+
+$$
+
+ANZ536-260800-
+Tidal Potomac from Indian Head to Cobb Island-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...SE winds 5 kt. Waves flat. 
+.TONIGHT...S winds around 5 kt. Waves flat. 
+.MON...NW winds around 5 kt. Waves 1 ft or less. 
+.MON NIGHT...W winds around 5 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...E winds around 5 kt. Waves 1 ft. 
+.WED...E winds around 5 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ537-260800-
+Tidal Potomac from Cobb Island to Smith Point-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...E winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves flat. 
+.MON...NW winds around 5 kt. Waves flat. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NE winds 5 to 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...SE winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ530-260800-
+Chesapeake Bay north of Pooles Island-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...S winds around 5 kt. Waves flat. 
+.TONIGHT...W winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NE winds around 5 kt. Waves flat. 
+.WED...E winds around 5 kt. Waves flat. 
+.THU...S winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ531-260800-
+Chesapeake Bay from Pooles Island to Sandy Point-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...E winds 5 kt. Waves flat. 
+.TONIGHT...SW winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...NE winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...E winds 5 kt. Waves less than 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ538-260800-
+Patapsco River including Baltimore Harbor-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...SE winds 5 kt. Waves flat. 
+.TONIGHT...SW winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...NW winds 5 kt. Waves flat. 
+.TUE...NE winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NE winds 5 kt. Waves flat. 
+.WED...SE winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ539-260800-
+Chester River to Queenstown MD-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...NW winds 5 kt. Waves flat. 
+.TONIGHT...SW winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...E winds 5 kt. Waves less than 1 ft. 
+.WED...E winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ532-260800-
+Chesapeake Bay from Sandy Point to North Beach-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...NE winds 5 kt. Waves flat. 
+.TONIGHT...S winds around 5 kt. Waves flat. 
+.MON...W winds 5 kt. Waves flat. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 10 to 15 kt with gusts to 20 kt. Waves 1 ft. 
+.TUE NIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ540-260800-
+Eastern Bay-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...N winds 5 kt. Waves flat. 
+.TONIGHT...SW winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...E winds 5 kt. Waves less than 1 ft. 
+.WED...E winds around 5 kt. Waves 1 ft or less. 
+.THU...S winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ533-260800-
+Chesapeake Bay from North Beach to Drum Point-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...NE winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...E winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.TUE NIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ541-260800-
+Choptank River to Cambridge MD and the Little Choptank River-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...N winds 5 kt. Waves flat. 
+.TONIGHT...E winds around 5 kt. Waves flat. 
+.MON...W winds around 5 kt. Waves flat. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.TUE NIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ542-260800-
+Patuxent River to Broomes Island MD-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...NE winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves 1 ft. 
+.MON...W winds around 5 kt. Waves 1 ft. 
+.MON NIGHT...W winds around 5 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NE winds 5 kt. Waves less than 1 ft. 
+.WED...E winds around 5 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft.  
+
+$$
+
+ANZ534-260800-
+Chesapeake Bay from Drum Point to Smith Point-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...N winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves 1 ft or less. 
+.MON...NW winds around 5 kt. Waves 1 ft or less. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.TUE NIGHT...NE winds 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ543-260800-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+226 PM EDT Sun Oct 25 2026
+
+.THIS AFTERNOON...N winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves 1 ft or less. 
+.MON...NW winds around 5 kt. Waves 1 ft or less. 
+.MON NIGHT...W winds 5 to 10 kt. Waves 1 ft or less. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NE winds 5 to 10 kt. Waves 1 ft. 
+.WED...E winds 5 to 10 kt. Waves 1 ft. 
+.THU...S winds around 5 kt. Waves flat.  
+
+$$
+
