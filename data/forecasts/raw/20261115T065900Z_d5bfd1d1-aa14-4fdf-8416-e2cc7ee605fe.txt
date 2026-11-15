@@ -1,0 +1,298 @@
+
+000
+FZUS51 KLWX 150659
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+159 AM EST Sun Nov 15 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-152100-
+159 AM EST Sun Nov 15 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+Breezy conditions continue through tonight between low pressure to 
+our northeast and approaching high pressure from the west. High 
+pressure will build over the area Tuesday before meandering nearby 
+for much of this coming week. Small Craft Advisories may need to be 
+extended for lower portions of the Chesapeake Bay into Monday. Winds
+ will taper off throughout the day Monday and become light for much 
+of the week. 
+
+$$
+
+ANZ535-152100-
+Tidal Potomac from Key Bridge to Indian Head-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...W winds 5 kt with gusts to 20 kt. Waves 1 ft. Scattered
+sprinkles. 
+.SUN...NW winds 5 to 10 kt with gusts to 25 kt. Waves 1 ft. 
+.SUN NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds around 5 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ536-152100-
+Tidal Potomac from Indian Head to Cobb Island-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...NW winds 10 kt with gusts to 20 kt. Waves 1 ft.
+Scattered sprinkles and flurries. 
+.SUN...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.SUN NIGHT...N winds 5 to 10 kt. Waves 1 ft. 
+.MON...N winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds around 5 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves 1 ft or less. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ537-152100-
+Tidal Potomac from Cobb Island to Smith Point-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 2 to 3 ft.
+Scattered sprinkles. 
+.SUN...NW winds 5 to 10 kt with gusts to 20 kt. Waves 2 ft. 
+.SUN NIGHT...N winds 5 to 10 kt with gusts to 20 kt. Waves 2 ft. 
+.MON...N winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ530-152100-
+Chesapeake Bay north of Pooles Island-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...NW winds 10 kt with gusts to 20 kt. Waves 1 ft.
+Scattered sprinkles and flurries. 
+.SUN...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds around 5 kt. Waves 1 ft. 
+.TUE NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ531-152100-
+Chesapeake Bay from Pooles Island to Sandy Point-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 3 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 kt with gusts to 20 kt. Waves 2 ft. 
+.SUN NIGHT...N winds 5 to 10 kt with gusts to 20 kt. Waves 2 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NW winds 5 kt. Waves less than 1 ft. 
+.WED...W winds 5 kt. Waves less than 1 ft. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ538-152100-
+Patapsco River including Baltimore Harbor-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft.
+Scattered sprinkles and flurries. 
+.SUN...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 5 kt. Waves less than 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...W winds 5 kt. Waves less than 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ539-152100-
+Chester River to Queenstown MD-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH THIS AFTERNOON...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 2 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 kt with gusts to 20 kt. Waves 2 ft. 
+.SUN NIGHT...N winds 5 to 10 kt with gusts to 20 kt. Waves 2 ft. 
+.MON...NW winds 5 to 10 kt. Waves 1 to 2 ft. 
+.MON NIGHT...N winds 5 kt. Waves less than 1 ft. 
+.TUE...NW winds 5 kt. Waves less than 1 ft. 
+.TUE NIGHT...NW winds 5 kt. Waves less than 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ532-152100-
+Chesapeake Bay from Sandy Point to North Beach-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 2 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 to 15 kt with gusts to 20 kt. Waves 1 ft. 
+.SUN NIGHT...N winds 10 kt with gusts to 20 kt. Waves 2 ft. 
+.MON...NW winds 10 to 15 kt. Waves 1 to 2 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...W winds 5 kt. Waves less than 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds 5 kt. Waves flat.  
+
+$$
+
+ANZ540-152100-
+Eastern Bay-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 2 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 kt with gusts to 25 kt. Waves 1 ft. 
+.SUN NIGHT...N winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.MON...N winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds around 5 kt. Waves 1 ft. 
+.TUE NIGHT...W winds 5 kt. Waves less than 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ533-152100-
+Chesapeake Bay from North Beach to Drum Point-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 15 kt with gusts to 25 kt. Waves 2 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 to 15 kt with gusts to 25 kt. Waves 2 ft. 
+.SUN NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 3 ft. 
+.MON...N winds 10 to 15 kt with gusts to 20 kt. Waves 3 ft...
+subsiding to 1 ft in the afternoon. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ541-152100-
+Choptank River to Cambridge MD and the Little Choptank River-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 15 to 20 kt with gusts to 25 kt. Waves 2 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 to 15 kt with gusts to 25 kt. Waves 2 ft. 
+.SUN NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 1 to
+2 ft. 
+.MON...N winds 10 to 15 kt with gusts to 20 kt. Waves 1 to 2 ft. 
+.MON NIGHT...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds around 5 kt. Waves flat.  
+
+$$
+
+ANZ542-152100-
+Patuxent River to Broomes Island MD-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 10 kt with gusts to 25 kt. Waves 1 ft.
+Scattered sprinkles and flurries. 
+.SUN...NW winds 5 to 10 kt with gusts to 20 kt. Waves 1 ft. 
+.SUN NIGHT...NW winds 5 kt with gusts to 20 kt. Waves 1 ft. 
+.MON...N winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.TUE...NW winds around 5 kt. Waves 1 ft. 
+.TUE NIGHT...W winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft. 
+.THU...SW winds around 5 kt. Waves 1 ft or less.  
+
+$$
+
+ANZ534-152100-
+Chesapeake Bay from Drum Point to Smith Point-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 20 kt with gusts to 30 kt. Waves 3 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 to 15 kt with gusts to 25 kt. Waves 3 ft. 
+.SUN NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 3 ft. 
+.MON...N winds 10 to 15 kt with gusts to 20 kt. Waves 3 ft. 
+.MON NIGHT...N winds 5 to 10 kt. Waves 2 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 to 2 ft. 
+.TUE NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds 5 kt. Waves flat.  
+
+$$
+
+ANZ543-152100-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+159 AM EST Sun Nov 15 2026
+
+...SMALL CRAFT ADVISORY IN EFFECT THROUGH LATE TONIGHT...
+
+.OVERNIGHT...NW winds 20 kt with gusts to 30 kt. Waves 4 ft.
+Scattered sprinkles. 
+.SUN...NW winds 10 to 15 kt with gusts to 25 kt. Waves 3 ft. 
+.SUN NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.MON...N winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.MON NIGHT...N winds 5 to 10 kt. Waves 1 ft. 
+.TUE...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE NIGHT...NW winds around 5 kt. Waves 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft or less. 
+.THU...SW winds 5 kt. Waves flat.  
+
+$$
+
