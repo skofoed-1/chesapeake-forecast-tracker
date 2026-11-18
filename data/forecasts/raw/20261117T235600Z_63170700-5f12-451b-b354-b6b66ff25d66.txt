@@ -1,0 +1,267 @@
+
+000
+FZUS51 KLWX 172356
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+656 PM EST Tue Nov 17 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-180900-
+656 PM EST Tue Nov 17 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+High pressure will remain over the area throughout the entire  week.
+The lighter winds support favorable conditions across the  marine
+waters. 
+
+$$
+
+ANZ535-180900-
+Tidal Potomac from Key Bridge to Indian Head-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...Light winds. Waves flat. 
+.WED...SW winds around 5 kt. Waves 1 ft or less. 
+.WED NIGHT...Light winds. Waves flat. 
+.THU...SW winds around 5 kt. Waves 1 ft or less. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...N winds around 5 kt. Waves flat. 
+.FRI NIGHT...Light winds. Waves flat. 
+.SAT...NE winds around 5 kt. Waves 1 ft. 
+.SUN...N winds 5 to 10 kt. Waves 1 ft. A chance of rain through the
+day.  
+
+$$
+
+ANZ536-180900-
+Tidal Potomac from Indian Head to Cobb Island-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves 1 ft or less. 
+.THU NIGHT...SW winds around 5 kt. Waves 1 ft or less. 
+.FRI...Light winds. Waves flat. 
+.FRI NIGHT...Light winds. Waves flat. 
+.SAT...NE winds around 5 kt. Waves 1 ft or less. 
+.SUN...N winds around 5 kt...becoming NW 10 to 15 kt after midnight.
+Waves 1 ft. A chance of rain through the day.  
+
+$$
+
+ANZ537-180900-
+Tidal Potomac from Cobb Island to Smith Point-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves 1 ft or less. 
+.SUN...N winds 10 to 15 kt. Waves 1 to 2 ft. A chance of rain
+through the day.  
+
+$$
+
+ANZ530-180900-
+Chesapeake Bay north of Pooles Island-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves less than 1 ft. 
+.WED...W winds around 5 kt. Waves 1 ft. 
+.WED NIGHT...W winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves 1 ft or less. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves 1 ft. 
+.FRI NIGHT...N winds around 5 kt. Waves flat. 
+.SAT...E winds around 5 kt. Waves 1 ft. 
+.SUN...N winds 10 to 15 kt. Waves 1 ft. A chance of rain through the
+day.  
+
+$$
+
+ANZ531-180900-
+Chesapeake Bay from Pooles Island to Sandy Point-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...W winds around 5 kt. Waves flat. 
+.FRI NIGHT...E winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves flat. 
+.SUN...N winds 10 to 15 kt. Waves 1 to 2 ft. A chance of rain
+through the day.  
+
+$$
+
+ANZ538-180900-
+Patapsco River including Baltimore Harbor-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds around 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...Light winds. Waves flat. 
+.FRI NIGHT...Light winds. Waves flat. 
+.SAT...NE winds around 5 kt. Waves flat. 
+.SUN...N winds 5 to 10 kt. Waves 1 ft or less. A chance of rain
+through the day.  
+
+$$
+
+ANZ539-180900-
+Chester River to Queenstown MD-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves flat. 
+.SUN...N winds 5 kt...becoming NW 10 to 15 kt after midnight. Waves
+1 ft or less. A chance of rain through the day.  
+
+$$
+
+ANZ532-180900-
+Chesapeake Bay from Sandy Point to North Beach-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds 5 kt. Waves flat. 
+.THU NIGHT...SW winds 5 kt. Waves flat. 
+.FRI...N winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds 5 kt. Waves flat. 
+.SUN...N winds 5 to 10 kt...becoming NW 15 to 20 kt after midnight.
+Waves 1 to 2 ft. A chance of rain through the day.  
+
+$$
+
+ANZ540-180900-
+Eastern Bay-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds around 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves flat. 
+.SUN...N winds 10 to 15 kt. Waves 1 ft or less. A chance of rain
+through the day.  
+
+$$
+
+ANZ533-180900-
+Chesapeake Bay from North Beach to Drum Point-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...SW winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds 5 kt. Waves flat. 
+.THU NIGHT...SW winds 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves 1 ft or less. 
+.SUN...N winds 5 to 10 kt...becoming NW 15 to 20 kt after midnight.
+Waves 1 ft...building to 3 ft after midnight. A chance of rain
+through the day.  
+
+$$
+
+ANZ541-180900-
+Choptank River to Cambridge MD and the Little Choptank River-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...E winds around 5 kt. Waves flat. 
+.SAT...NE winds around 5 kt. Waves flat. 
+.SUN...N winds 5 to 10 kt...becoming NW 15 to 20 kt after midnight.
+Waves 1 to 2 ft. A chance of rain through the day.  
+
+$$
+
+ANZ542-180900-
+Patuxent River to Broomes Island MD-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds around 5 kt. Waves 1 ft or less. Patchy fog after
+midnight with vsby 1 to 3 NM. 
+.WED...W winds around 5 kt. Waves 1 ft or less. Patchy fog. Vsby
+1 to 3 NM. 
+.WED NIGHT...SW winds around 5 kt. Waves 1 ft. 
+.THU...SW winds around 5 kt. Waves 1 ft. 
+.THU NIGHT...SW winds around 5 kt. Waves 1 ft. 
+.FRI...N winds around 5 kt. Waves 1 ft. 
+.FRI NIGHT...Light winds. Waves flat. 
+.SAT...NE winds around 5 kt. Waves 1 ft. 
+.SUN...N winds 5 to 10 kt. Waves 1 ft. A chance of rain through the
+day.  
+
+$$
+
+ANZ534-180900-
+Chesapeake Bay from Drum Point to Smith Point-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds 5 kt. Waves flat. 
+.THU NIGHT...SW winds 5 kt. Waves flat. 
+.FRI...NW winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...N winds 5 to 10 kt...becoming NW 15 to 20 kt after midnight.
+Waves 1 to 2 ft. A chance of rain.  
+
+$$
+
+ANZ543-180900-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+656 PM EST Tue Nov 17 2026
+
+.TONIGHT...W winds 5 kt. Waves flat. 
+.WED...W winds around 5 kt. Waves flat. 
+.WED NIGHT...SW winds around 5 kt. Waves flat. 
+.THU...SW winds around 5 kt. Waves flat. 
+.THU NIGHT...SW winds 5 kt. Waves flat. 
+.FRI...W winds around 5 kt. Waves flat. 
+.FRI NIGHT...NE winds around 5 kt. Waves flat. 
+.SAT...NE winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...NE winds 5 to 10 kt...becoming NW 15 to 20 kt after midnight.
+Waves 1 to 2 ft. A chance of rain.  
+
+$$
+
