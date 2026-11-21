@@ -1,0 +1,265 @@
+
+000
+FZUS51 KLWX 211403
+CWFLWX
+
+Coastal Waters Forecast
+National Weather Service Baltimore MD/Washington DC
+903 AM EST Sat Nov 21 2026
+
+Tidal Potomac River and Maryland portion of Chesapeake Bay.
+
+Forecasts of wave heights do not include effects of wind direction
+relative to tidal currents. Expect higher waves when winds are
+blowing against the tidal flow.  Waves flat where waters are iced over.
+
+ANZ500-212100-
+903 AM EST Sat Nov 21 2026
+
+.SYNOPSIS FOR THE TIDAL POTOMAC AND MD PORTION OF THE CHESAPEAKE BAY...
+
+High pressure initially over the area will begin to retreat back 
+into New England and the Canadian Maritimes this weekend. Winds 
+remain light today before a low pressure system emanating from the 
+southeastern U.S. coast should bring precipitation and increased 
+winds to the waters on Sunday. Small Craft Advisories may be needed 
+at times Sunday into Sunday night with this coastal system nearby. 
+Stronger winds will be possible, but there has been a recent trend 
+to move the system further to the east. Additional advisories are 
+likely to be needed on Tuesday into Wednesday in response to the 
+next weather maker ahead of the Thanksgiving holiday. 
+
+$$
+
+ANZ535-212100-
+Tidal Potomac from Key Bridge to Indian Head-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves 1 ft. 
+.SUN...NE winds 5 kt. Waves less than 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 kt. Waves less than 1 ft. Rain likely. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.WED...NE winds 15 to 20 kt. Waves 1 to 2 ft. A chance of rain in
+the evening. Rain likely after midnight.  
+
+$$
+
+ANZ536-212100-
+Tidal Potomac from Indian Head to Cobb Island-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds 5 kt. Waves less than 1 ft. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. Rain likely. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 10 to 15 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.WED...NE winds 20 to 25 kt. Waves 1 to 2 ft. A chance of rain in
+the evening. Rain likely after midnight.  
+
+$$
+
+ANZ537-212100-
+Tidal Potomac from Cobb Island to Smith Point-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.SUN...NE winds 10 kt. Waves 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.TUE...N winds 15 to 20 kt...becoming NE after midnight. Waves 2 ft.
+.WED...NE winds 25 to 30 kt. Waves 3 ft. A chance of rain in the
+evening. Rain likely after midnight.  
+
+$$
+
+ANZ530-212100-
+Chesapeake Bay north of Pooles Island-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves flat. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 10 to 15 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.WED...NE winds 20 to 25 kt. Waves 1 to 2 ft. A chance of rain after
+midnight.  
+
+$$
+
+ANZ531-212100-
+Chesapeake Bay from Pooles Island to Sandy Point-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...NE winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 10 to 15 kt. Waves 2 ft. 
+.TUE...N winds 10 to 15 kt...becoming NE after midnight. Waves 2 ft.
+.WED...NE winds 25 to 30 kt. Waves 2 to 3 ft... building to 4 ft
+after midnight. Rain likely after midnight.  
+
+$$
+
+ANZ538-212100-
+Patapsco River including Baltimore Harbor-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves flat. 
+.TONIGHT...NE winds 5 kt. Waves flat. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft or less. A chance of
+rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft or less. 
+.MON NIGHT...NW winds 5 to 10 kt. Waves 1 ft. 
+.TUE...N winds 5 to 10 kt. Waves 1 ft. 
+.WED...NE winds 15 to 20 kt. Waves 1 to 2 ft. A chance of rain after
+midnight.  
+
+$$
+
+ANZ539-212100-
+Chester River to Queenstown MD-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves flat. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 10 to 15 kt with gusts to 20 kt. Waves 2 ft. 
+.TUE...N winds 10 to 15 kt...becoming NE after midnight. Waves 1 to
+2 ft. 
+.WED...NE winds 20 to 25 kt. Waves 1 to 2 ft... building to 3 ft
+after midnight. Rain likely after midnight.  
+
+$$
+
+ANZ532-212100-
+Chesapeake Bay from Sandy Point to North Beach-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...NE winds 10 kt. Waves 1 ft. Rain likely. 
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 15 to 20 kt. Waves 2 ft. 
+.TUE...N winds 15 to 20 kt...becoming NE after midnight. Waves 2 ft.
+.WED...NE winds 25 to 30 kt. Waves 2 to 3 ft... building to 4 ft
+after midnight. A chance of rain in the evening. Rain likely after
+midnight.  
+
+$$
+
+ANZ540-212100-
+Eastern Bay-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves flat. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. Rain.
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...NW winds 10 to 15 kt with gusts to 20 kt. Waves 1 ft. 
+.TUE...N winds 10 to 15 kt...becoming NE after midnight. Waves 1 ft.
+.WED...NE winds 15 to 20 kt...increasing to 25 to 30 kt after
+midnight. Waves 1 to 2 ft. A chance of rain in the evening. Rain
+likely after midnight.  
+
+$$
+
+ANZ533-212100-
+Chesapeake Bay from North Beach to Drum Point-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...NE winds 10 kt. Waves 1 ft. Rain.
+.SUN NIGHT...NW winds 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 15 to 20 kt. Waves 2 ft. 
+.TUE...N winds 15 to 20 kt...becoming NE after midnight. Waves 2 to
+3 ft. 
+.WED...NE winds 25 to 30 kt. Waves 3 ft...building to 5 ft after
+midnight. A chance of rain in the evening. Rain likely after
+midnight.  
+
+$$
+
+ANZ541-212100-
+Choptank River to Cambridge MD and the Little Choptank River-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft or less. 
+.SUN...NE winds 10 kt. Waves 1 ft. Rain.
+.SUN NIGHT...NW winds 5 to 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 15 to 20 kt. Waves 2 ft. 
+.TUE...N winds 15 to 20 kt...becoming NE after midnight. Waves 1 to
+2 ft. 
+.WED...NE winds 25 to 30 kt. Waves 2 to 3 ft. A chance of rain in
+the evening. Rain likely after midnight.  
+
+$$
+
+ANZ542-212100-
+Patuxent River to Broomes Island MD-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...NE winds around 5 kt. Waves 1 ft. 
+.SUN...NE winds 5 to 10 kt. Waves 1 ft. Rain.
+.SUN NIGHT...NW winds 5 kt. Waves less than 1 ft. A chance of rain. 
+.MON...NW winds 5 kt. Waves less than 1 ft. 
+.MON NIGHT...N winds 10 to 15 kt with gusts to 20 kt. Waves 1 ft. 
+.TUE...N winds 10 to 15 kt. Waves 1 ft. 
+.WED...NE winds 15 to 20 kt. Waves 1 ft. A chance of rain in the
+evening. Rain likely after midnight.  
+
+$$
+
+ANZ534-212100-
+Chesapeake Bay from Drum Point to Smith Point-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...NE winds 5 kt. Waves less than 1 ft. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.SUN...NE winds 10 to 15 kt. Waves 2 ft. Rain.
+.SUN NIGHT...NW winds 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 15 to 20 kt. Waves 2 to 3 ft. 
+.TUE...N winds 15 to 20 kt. Waves 3 ft. 
+.WED...NE winds 25 to 30 kt. Waves 3 ft...building to 5 ft after
+midnight. A chance of rain in the evening. Rain likely after
+midnight.  
+
+$$
+
+ANZ543-212100-
+Tangier Sound and the inland waters surrounding Bloodsworth Island-
+903 AM EST Sat Nov 21 2026
+
+.REST OF TODAY...E winds 5 to 10 kt. Waves flat. 
+.TONIGHT...E winds 5 to 10 kt. Waves 1 ft. 
+.SUN...E winds 10 to 15 kt. Waves 1 ft. Rain.
+.SUN NIGHT...W winds 10 kt. Waves 1 ft. A chance of rain. 
+.MON...NW winds 5 to 10 kt. Waves 1 ft. 
+.MON NIGHT...N winds 15 to 20 kt. Waves 2 ft. 
+.TUE...N winds 15 to 20 kt. Waves 1 to 2 ft. 
+.WED...NE winds 25 to 30 kt. Waves 2 to 3 ft. A chance of rain in
+the evening. Rain likely after midnight.  
+
+$$
+
